@@ -82,12 +82,18 @@ Simples assim!
 
 
 | `whoami` | Mostra qual usuário está conectado |
+
 | `uname -a` | Apresenta informações do sistema |
+
 | `df -h` | Mostra o espaço utilizado e disponível em disco |
+
 | `free -h` | Mostra informações sobre a memória |
+
 | `top` | Permite acompanhar os processos em execução |
+
 | `clear` | Limpa a tela do terminal |
 
-## Minha dica
+
+## Minha dica até aqui
 
 Não tente decorar tudo de uma vez. Execute os comandos, observe o resultado e procure entender o que aconteceu.
